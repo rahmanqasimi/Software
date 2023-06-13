@@ -10,7 +10,7 @@ public class P19 {
 
     static void print()
     {
-        FileInputStream fileInput = new FileInputStream("Hello");
+
     }
 
 }
